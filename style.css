@@ -1,0 +1,15 @@
+body{
+    display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+}
+.bundinha {
+    display: flex;
+    height: 50%;
+    width: 500px;
+}
+img {
+    max-width: 400px;
+    max-height: 500px;
+}
